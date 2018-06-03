@@ -1,0 +1,19 @@
+body{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+html {
+    box-sizing: border-box;
+    background: whitesmoke;
+    font-family: sans-serif;
+}
+
+#paint {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border: 2px;
+    background-color: #9fcdff;
+}
+
